@@ -10,7 +10,7 @@ Panduan _style guide_ ini sebagian besar didasarkan pada standar yang saat ini l
   1. [Class vs `React.createClass` vs stateless](#class-vs-reactcreateclass-vs-stateless)
   1. [Mixins](#mixins)
   1. [Penamaan](#penamaan)
-  1. [Deklarasi](#declaration)
+  1. [Deklarasi](#deklarasi)
   1. [Alignment](#alignment)
   1. [Quotes](#quotes)
   1. [Spacing](#spacing)
@@ -730,4 +730,4 @@ Kami tidak merekomendasikan untuk menggunakan indeks sebagai _keys_ jika urutan 
   - ![ua](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/Ukraine.png) **Ukrainian**: [ivanzusko/javascript](https://github.com/ivanzusko/javascript/tree/master/react)
   - ![vn](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/Vietnam.png) **Vietnam**: [uetcodecamp/jsx-style-guide](https://github.com/UETCodeCamp/jsx-style-guide)
 
-**[⬆ kembali ke atas](#table-of-contents)**
+**[⬆ kembali ke atas](#daftar-isi)**
